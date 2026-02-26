@@ -1,0 +1,5 @@
+{
+  "name": "SteamSweeper",
+  "description": "A retro steampunk-themed Minesweeper game",
+  "requestFramePermissions": []
+}
